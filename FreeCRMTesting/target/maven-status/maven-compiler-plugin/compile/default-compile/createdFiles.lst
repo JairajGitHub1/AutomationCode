@@ -1,0 +1,15 @@
+com\crm\qa\ExtentReportListener\CustomExtentReportListener$1.class
+com\crm\qa\pages\ContactsPage.class
+com\crm\qa\pages\DealsPage.class
+com\crm\qa\ExtentReportListener\ExtentReportListener.class
+com\crm\qa\pages\HomePage.class
+com\crm\qa\pages\TasksPage.class
+com\crm\qa\pages\LoginPage.class
+com\crm\qa\ExtentReportListener\CustomExtentReportListener.class
+com\crm\qa\ExtentReportListener\CustomExtentReportListener$TestMethodSorter.class
+com\crm\qa\ExtentReportListener\CustomExtentReportListener$TestSorter.class
+com\crm\qa\base\TestBase.class
+com\crm\qa\util\TestUtil.class
+com\crm\qa\ExtentReportListener\CustomExtentReportListener$TestResultsSorter.class
+com\crm\qa\pages\SignUpPage.class
+com\crm\qa\util\WebEventListener.class

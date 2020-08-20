@@ -1,0 +1,111 @@
+2020-08-20 23:04:17,849  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:04:17,875  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:04:17,878  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:04:17,879  INFO [main] TestBase:31 - Logger: ========= Chrome Driver Launched =========
+2020-08-20 23:04:22,902  INFO [main] TestBase:100 - Logger: ========= Firefox Driver Launched =========
+2020-08-20 23:04:22,922  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:04:28,096  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:04:28,101  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:04:28,132  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:04:28,573  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:04:29,751  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:04:38,024  INFO [main] TestBase:100 - Logger: ========= Firefox Driver Launched =========
+2020-08-20 23:04:38,025  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:04:43,611  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:04:43,612  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:04:43,613  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:04:43,999  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:04:45,747  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:04:55,530  INFO [main] TestBase:100 - Logger: ========= Firefox Driver Launched =========
+2020-08-20 23:04:55,532  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:05:00,660  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:05:00,661  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:05:00,663  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:05:01,049  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:05:02,066  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:05:13,603  INFO [main] TestBase:100 - Logger: ========= Firefox Driver Launched =========
+2020-08-20 23:05:13,604  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:05:18,795  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:05:18,797  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:05:18,799  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:05:19,210  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:05:20,952  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:05:33,593  INFO [main] TestBase:100 - Logger: ========= Firefox Driver Launched =========
+2020-08-20 23:05:33,597  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:05:39,474  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:05:39,474  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:05:39,475  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:05:39,872  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:05:40,929  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:05:54,984  INFO [main] TestBase:100 - Logger: ========= Firefox Driver Launched =========
+2020-08-20 23:05:54,985  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:05:59,502  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:05:59,503  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:05:59,504  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:05:59,901  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:06:00,890  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:06:13,616  INFO [main] TestBase:100 - Logger: ========= Firefox Driver Launched =========
+2020-08-20 23:06:13,620  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:06:19,177  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:06:19,179  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:06:19,564  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:06:24,028  INFO [main] TestBase:100 - Logger: ========= Firefox Driver Launched =========
+2020-08-20 23:06:24,029  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:06:29,886  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:06:29,887  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:06:30,321  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:06:35,590  INFO [main] TestBase:100 - Logger: ========= Firefox Driver Launched =========
+2020-08-20 23:06:35,591  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:06:41,246  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:06:41,247  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:06:41,638  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:06:42,569  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:06:47,576  INFO [main] TestBase:100 - Logger: ========= Firefox Driver Launched =========
+2020-08-20 23:06:47,579  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:06:52,487  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:06:52,491  INFO [main] TestBase:58 - ****************************************************************************************
+2020-08-20 23:06:52,491  INFO [main] TestBase:59 - ****************************************************************************************
+2020-08-20 23:06:52,492  INFO [main] TestBase:60 - $$$$$$$$$$$$$$$$$$$$$             Login Page Tile Test         $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-08-20 23:06:52,492  INFO [main] TestBase:62 - ****************************************************************************************
+2020-08-20 23:06:52,492  INFO [main] TestBase:63 - ****************************************************************************************
+2020-08-20 23:06:52,499  INFO [main] TestBase:74 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-08-20 23:06:52,499  INFO [main] TestBase:75 - X
+2020-08-20 23:06:52,500  INFO [main] TestBase:76 - X
+2020-08-20 23:06:52,500  INFO [main] TestBase:77 - X
+2020-08-20 23:06:52,500  INFO [main] TestBase:78 - X
+2020-08-20 23:06:53,612  INFO [main] TestBase:138 - *******************************************************************************************************
+2020-08-20 23:06:53,612  INFO [main] TestBase:139 - XXXXXXXXXXXXXXXXXXXXXXX                Teardown Completed                  XXXXXXXXXXXXXXXXXXXXXX
+2020-08-20 23:06:53,612  INFO [main] TestBase:140 - *******************************************************************************************************
+2020-08-20 23:07:06,264  INFO [main] TestBase:100 - Logger: ========= Firefox Driver Launched =========
+2020-08-20 23:07:06,264  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:07:11,776  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:07:11,776  INFO [main] TestBase:85 - ****************************************************************************************
+2020-08-20 23:07:11,777  INFO [main] TestBase:86 - ****************************************************************************************
+2020-08-20 23:07:11,777  INFO [main] TestBase:87 - $$$$$$$$$$$$$$$$$$$$$                 classicCRMlnkTest        $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-08-20 23:07:11,777  INFO [main] TestBase:89 - ****************************************************************************************
+2020-08-20 23:07:11,777  INFO [main] TestBase:90 - ****************************************************************************************
+2020-08-20 23:07:11,837  INFO [main] TestBase:100 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-08-20 23:07:11,838  INFO [main] TestBase:101 - X
+2020-08-20 23:07:11,838  INFO [main] TestBase:102 - X
+2020-08-20 23:07:11,838  INFO [main] TestBase:103 - X
+2020-08-20 23:07:11,838  INFO [main] TestBase:104 - X
+2020-08-20 23:07:12,982  INFO [main] TestBase:138 - *******************************************************************************************************
+2020-08-20 23:07:12,982  INFO [main] TestBase:139 - XXXXXXXXXXXXXXXXXXXXXXX                Teardown Completed                  XXXXXXXXXXXXXXXXXXXXXX
+2020-08-20 23:07:12,983  INFO [main] TestBase:140 - *******************************************************************************************************
+2020-08-20 23:07:16,842  INFO [main] TestBase:100 - Logger: ========= Firefox Driver Launched =========
+2020-08-20 23:07:16,843  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:07:21,937  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:07:21,939  INFO [main] TestBase:111 - ****************************************************************************************
+2020-08-20 23:07:21,939  INFO [main] TestBase:112 - ****************************************************************************************
+2020-08-20 23:07:21,939  INFO [main] TestBase:113 - $$$$$$$$$$$$$$$$$$$$$                  Login Test              $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-08-20 23:07:21,939  INFO [main] TestBase:114 - ****************************************************************************************
+2020-08-20 23:07:21,939  INFO [main] TestBase:115 - ****************************************************************************************
+2020-08-20 23:07:22,309  INFO [main] TestBase:75 - Logger: ========= Inside TestBase Constructor =========
+2020-08-20 23:07:22,310  INFO [main] TestBase:123 - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX
+2020-08-20 23:07:22,310  INFO [main] TestBase:124 - X
+2020-08-20 23:07:22,310  INFO [main] TestBase:125 - X
+2020-08-20 23:07:22,310  INFO [main] TestBase:126 - X
+2020-08-20 23:07:22,310  INFO [main] TestBase:127 - X
+2020-08-20 23:07:23,459  INFO [main] TestBase:138 - *******************************************************************************************************
+2020-08-20 23:07:23,459  INFO [main] TestBase:139 - XXXXXXXXXXXXXXXXXXXXXXX                Teardown Completed                  XXXXXXXXXXXXXXXXXXXXXX
+2020-08-20 23:07:23,459  INFO [main] TestBase:140 - *******************************************************************************************************
